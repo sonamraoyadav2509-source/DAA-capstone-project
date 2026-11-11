@@ -1,0 +1,8 @@
+id,name,priority,deadline,weight,value,destination
+P01,Documents,5,1,1.0,500,A
+P02,Medicine,5,2,2.0,900,B
+P03,Clothing,3,5,3.5,300,C
+P04,Electronics,4,3,4.0,1200,D
+P05,Books,2,8,2.5,250,A
+P06,Grocery,3,4,5.0,400,E
+P07,Gift Box,4,2,1.5,650,C

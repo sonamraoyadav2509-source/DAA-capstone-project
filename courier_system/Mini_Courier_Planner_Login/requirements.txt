@@ -1,0 +1,2 @@
+# Tkinter and SQLite are included with standard Python on Windows.
+matplotlib
